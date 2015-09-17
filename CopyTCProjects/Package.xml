@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<packageBuild xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="531802" number="1.12541" name="MyEasyJet - Packager" creationDate="2013-09-06T14:29:22+01:00">
+  <productBuilds>
+    <ProductBuild id="546297" number="84.0.0.2" name="prodmb-R84 - Notification" subprojectName="easyJet.Notification.CI" creationDate="2013-08-29T15:48:20+01:00" buildTypeId="bt603" artifactUrl="http://teamcity.europe.easyjet.local/guestAuth/app/rest/builds/id:525706/artifacts/files">
+    </ProductBuild>
+    <ProductBuild id="541185" number="84.0.0.2" name="Trunk - easyJet Halo" subprojectName="easyJet.Halo.Services.Quality" creationDate="2013-08-29T15:48:20+01:00" buildTypeId="bt603" artifactUrl="http://teamcity.europe.easyjet.local/guestAuth/app/rest/builds/id:525706/artifacts/files">
+    </ProductBuild>
+  </productBuilds>
+  <tags />
+</packageBuild>
